@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Python Basics",
+    "description": "Learn Python",
+    "target_date": "2026-12-31",
+    "status": "Not Started",
+    "created_at": "2026-10-22T22:58:33"
+  },
+  {
+    "id": 2,
+    "name": "Introduction to Python",
+    "description": "This course covers basics of python",
+    "target_date": "2026-10-30",
+    "status": "Not Started",
+    "created_at": "2026-10-22T23:18:46"
+  }
+]
